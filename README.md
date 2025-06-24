@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This project was a pairwork, done as as part of a coursework requirement for my junior-year introductory Artificial Intelligence class. It implements a solution to the classic 8-puzzle problem. The task was to demonstrate state-space search for solving the puzzle from different initial configurations.
+This project was a pairwork, done as part of a coursework requirement for my junior-year introductory Artificial Intelligence class. It implements a solution to the classic 8-puzzle problem. The task was to demonstrate state-space search for solving the puzzle from different initial configurations.
 
 Two search strategies were implemented: Breadth-First Search (BFS) and Greedy Best-First Search. The program builds the search tree, explores all possible **states, and traces a path from the initial configuration to the goal state.
 
