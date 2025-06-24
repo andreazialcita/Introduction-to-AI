@@ -2,23 +2,20 @@
 
 <h2>Description</h2>
 
-This project implements a solution to the classic 8-puzzle problem as part of a coursework requirement for an introductory Artificial Intelligence class. The objective was to demonstrate state-space search for solving the puzzle from various initial configurations.
+This project was a pairwork, done as as part of a coursework requirement for my junior-year introductory Artificial Intelligence class. It implements a solution to the classic 8-puzzle problem. The task was to demonstrate state-space search for solving the puzzle from different initial configurations.
 
-The project explores the problem using two search algorithms: Breadth-First Search (BFS) and a depth-limited version of Depth-First Search (DFS). The program generates the search tree, tracks explored states, and outputs a solution path from the initial configuration to the goal state.
+Two search strategies were implemented: Breadth-First Search (BFS) and Greedy Best-First Search. The program builds the search tree, explores all possible **states, and traces a path from the initial configuration to the goal state.
 
-The puzzle was solved for two different initial configurations, with the program visualizing the search process and reporting the number of steps and nodes expanded.
+The 8-puzzle was solved for two given initial configurations.
 
 <br/>
 
-<h2>Concepts Demonstrated</h2>
+<h2>Concepts Used</h2>
 
-- <b>State-Space Representation</b> – Modeling puzzle states and transitions  
-- <b>Search Tree Construction</b> – Tracking paths through the solution space  
-- <b>Breadth-First Search (BFS)</b> – Uninformed search strategy  
-- <b>Depth-Limited DFS</b> – Recursive depth-bounded exploration  
-- <b>Goal Testing</b> – Detecting solution states  
-- <b>Backtracking</b> – Reconstructing the solution path  
+- <b>Breadth-First Search (BFS)</b>
+- <b>Greedy Best-First Search</b>
+- <b>Solution Path Tracing</b>: Reconstructing the sequence of moves to reach the goal  
 
 <h2>Language Used</h2>
 
-- <b>Python</b> – for implementing search algorithms and state handling
+- <b>Python</b>
