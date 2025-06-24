@@ -12,7 +12,7 @@ The 8-puzzle was solved for two given initial configurations.
 <h2>Documents</h2>
 
 - [Source Code]()
-- [Presentation]()
+- [Presentation](https://github.com/andreazialcita/Introduction-to-AI/blob/main/%5BCSCI%20111%5D%20Final%20Project%20Presentation.pdf)
 
 <h2>Concepts Used</h2>
 
