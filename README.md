@@ -9,6 +9,11 @@ Two search strategies were implemented: Breadth-First Search (BFS) and Greedy Be
 The 8-puzzle was solved for two given initial configurations.
 <br/>
 
+<h2>Documents</h2>
+
+- [Source Code]()
+- [Presentation]()
+
 <h2>Concepts Used</h2>
 
 - <b>Breadth-First Search (BFS)</b>
